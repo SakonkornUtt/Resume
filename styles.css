@@ -1,0 +1,10 @@
+h2 {
+    color: #532600;
+  }
+  h2:target {
+    color: white;
+    background: #925300;
+  }
+  body{
+      background-color: rgb(255, 236, 206);
+  }
